@@ -59,5 +59,5 @@ git clone https://github.com/your-username/login-form-ui-html-css.git
 
 ## 🔗 Links
 
-- 🌐 Live Site: https://regiss304.github.io/login-form-ui-html-css/
-- 💻 Repository: https://github.com/Regiss304/login-form-ui-html-css/
+- 🌐 Live Site: https://gabriel-r-silvaa.github.io/login-form-ui-html-css/
+- 💻 Repository: https://github.com/gabriel-r-silvaa/login-form-ui-html-css/
